@@ -1,1 +1,9 @@
 исходники лекций
+
+могут понадобиться файлы *.def *.sty
+нужны пакеты 
+    texlive-t2a*
+    texlive-russ*
+    texlive-lh 
+    texlive-cyrillic*
+репозитарий вроде отличен от обычного
